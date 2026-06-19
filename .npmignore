@@ -1,0 +1,9 @@
+.github
+.storybook
+src/**/*.stories.*
+src/**/*.test.*
+src/test
+src/storybook.css
+src/storybook/
+vitest.config.ts
+components.json

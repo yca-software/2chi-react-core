@@ -1,0 +1,1 @@
+export { getAdminDetailErrorKind } from './getAdminDetailErrorKind';
